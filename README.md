@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herissontiburcio
 - 👀 Sou estudante de Sistemas de Informação no IFS.
-- 🌱 I’m currently learning  JAVA, PHYTON, JavaScript , C++, PHP,  Flutter
+- 🌱 I’m currently learning  JAVA, PHYTON, JavaScript , C++, PHP, REACT
 - 💞️ I’m looking to collaborate on  em desafios que contribuam para a sociedade e em constante evolução 
 - 📫 How to reach me  https://www.linkedin.com/in/herisson-tiburcio
 
