@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @herissontiburcio
-- 👀 Sou estudante de Sistemas de Informação no IFS.
+- 👋 Hi, I’m Herisson Tiburcio
+- 👀 I am a student of Information Systems at IFS
 - 🌱 I’m currently learning  JAVA, PHYTON, JavaScript , C++, CSS3, HTML5, REACT
-- 💞️ I’m looking to collaborate on  em desafios que contribuam para a sociedade e em constante evolução
+- 💞️ I seek to collaborate in the challenges that contribute to society and in constant evolution
 
 <div align="center">
   <a href="https://github.com/herissontiburcio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herissontiburcio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herissontiburcio&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herissontiburcio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
