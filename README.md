@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Herisson Tiburcio
 - 👀 I am a student of Information Systems at IFS
-- 🌱 I’m currently learning  JAVA, PHYTON, JavaScript , C++, CSS3, HTML5, REACT
+- 🌱 I’m currently learning  JAVA, PYTHON, JavaScript , C++, CSS3, HTML5, REACT
 - 💞️ I seek to collaborate in the challenges that contribute to society and in constant evolution
 
 <div align="center">
